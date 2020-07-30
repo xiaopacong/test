@@ -1,0 +1,5 @@
+# a=int(input("请输入数据："))
+# b=int(input("请输入数据："))
+# print(a+b)
+a=input("请输入文字：")
+print("文章字数：",len(a))
